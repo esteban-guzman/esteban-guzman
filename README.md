@@ -44,14 +44,6 @@ Soy un desarrollador FullStack con +5 años de experiencia construyendo solucion
 | **Sistema de reservas** | Aplicación para reservar experiencias y actividades en un parque internacional. Incluye control de horarios, validación de disponibilidad, pagos y facturación. | Node.js, PostgreSQL, Firebase |
 | **Gestor de tareas internas** | Herramienta para gestión de flujos de trabajo del departamento de producto, con tareas, responsables y notificaciones. | React, Firebase, Cloud Functions |
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaspar-dev&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspar-dev&layout=compact&theme=radical" alt="langs" />
-</p>
 
 ---
 
@@ -64,3 +56,9 @@ Soy un desarrollador FullStack con +5 años de experiencia construyendo solucion
 ---
 
 > 💬 *"El mejor código es el que no solo funciona, sino que se entiende y escala."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=esteban-guzman&label=Visitas&color=blue&style=flat" alt="visitas" />
+</p>
